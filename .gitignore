@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
+# backend
 vite-go-react.db
+server
