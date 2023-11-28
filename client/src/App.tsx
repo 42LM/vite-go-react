@@ -28,6 +28,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>Timestamp from Go backend sqlite3 DB:</p>
+      <Timestamp exampleProp={''} />
     </>
   )
 }
