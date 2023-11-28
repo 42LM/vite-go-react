@@ -1,0 +1,3 @@
+CREATE TABLE data (
+  token TIMESTAMPTZ NOT NULL
+);
